@@ -37,7 +37,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Slam||
 |Detective||
 |Sad|Breed terra + dark|
-|Mystic blizzard|can summon with 1 trade|
+|Mystic blizzard|can summon|
 |Rudolph||
 |Anubis||
 |Nightmare|CAN SUMMON|
@@ -248,15 +248,15 @@ Phenomenon
 |High Celestial|0|
 |**Third Heroic**||
 |High Superstition|25|
-|High Resolution||
+|High Resolution|0|
 |High Score|5|
-|High Feral||
-|Yggdrasil||
-|High Commander||
-|High Reverie||
-|High Zephyr||
+|High Feral|0|
+|Yggdrasil|0|
+|High Commander|0|
+|High Reverie|0|
+|High Zephyr|0|
 |High Winter|10|
-|High Malicious||
+|High Malicious|0|
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + flame (empower 2)|
@@ -293,17 +293,17 @@ Phenomenon
 |Zombie Flame||
 |**Titans 2**||
 |War Titan|0|
-|Sea Titan||
-|Terra Titan||
+|Sea Titan|31|
+|Terra Titan|0|
 |**Fifth Heroic**||
-|High Ethereal||
+|High Ethereal|0|
 |High Virago|25|
-|High Reborn||
-|High Tectonic||
+|High Reborn|0|
+|High Tectonic|0|
 |High Earthen|25|
-|High Devastation||
-|High Nebula||
-|High White Queen||
+|High Devastation|0|
+|High Nebula|0|
+|High White Queen|0|
 |**Vampire Family 2**|0 orbs|
 |Bio-Augmented Vampire||
 |Hexed Vampire||
