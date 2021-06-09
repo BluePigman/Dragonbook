@@ -1,4 +1,5 @@
-https://forums.socialpointgames.com/topic/16753/list-of-all-collection-dragons
+https://forums.socialpointgames.com/topic/16753/list-of-all-collection-dragons 
+https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensive_guide/ for breeding
 # Dragonbook
 Dragon City Personal Collection Tracking
 
@@ -37,7 +38,7 @@ Dragon City Personal Collection Tracking
 |Slam||
 |Detective||
 |Sad|Breed terra + dark|
-|Mystic blizzard||
+|Mystic blizzard|can summon with 1 trade|
 |Rudolph||
 |Anubis||
 |Nightmare|CAN SUMMON|
@@ -107,5 +108,87 @@ Dragon City Personal Collection Tracking
 |friendship|NOT BREEDABLE? trade for it|
 |night|breed dark + legend|
 |witch|breed dark + terra (empower 1)|
+|demon||
+|wrestler|breed war + ice (empower 1)|
+|space||
+|white alien||
+|tackle|breed dark + electric (empower 1)|
+|super terra|breed pure + pure (empower 1)|
+|third birthday||
+|super star|breed electric + electric (empower 1)|
+|super nature|CAN SUMMON|
+|macha||
+|joke||
+|symbiotic|breed sea + sea (empower 1)|
+|patriot general||
+|zodiac taurus||
+|zodiac cancer||
+|zodiac leo|IN STORAGE|
+|zodiac virgo||
+|zodiac sagittarius||
+|zodiac capricorn||
+|discus thrower||
+|archer||
+|runner||
+|hero|breed terra + sea (empower 1)|
+|froyo||
+|free spirit||
+|roller coaster||
+|wolfish||
+|zodiac pisces||
+|brave sword||
+|longhorn|breed terra + terra (empower 1)|
+|sleeping beauty||
+|explosive||
+|spiky||
+|magma|NOT RESCUABLE|
+|terrifying|breed|
+|cowardly|can summon|
+|mwahaha|in storage|
+|royal phoenix|can summon|
+|hunger||
+|conquest|breed|
+|warfare|breed|
+|geist|NOT RESCUABLE|
+PRODIGY BELOW
+|zodiac gemini||
+|krait||
+|atlantean||
+|samba||
+|voodoo witcher||
+|bear|breed pure + wind (empower 1)|
+|panther||
+|cereal killer||
+|millennial|can summon|
+|icewind||
+|valentine|breed legend + chaos (arrows)|
+|furious||
+|one horned||
+Phenomenon
+|Thanksgiving||
+|Robin Hood||
+|Juggler||
+|zodiac aquarius |breed ice + wind (empower 1)|
+|mystic tribe||
+|flesh||
+|cruel||
+|cow||
+|supernova||
+|fervor|breed pure + war (empower 2)|
+|gravity||
+|sap||
+|imp||
+|crest||
+|super flame|breed flame + flame|
+|berserk||
+FIRST VIP
 |||
-TREASURER COLLECTION 
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+
