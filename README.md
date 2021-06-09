@@ -270,16 +270,16 @@ Phenomenon
 |Winter Sun| in storage|
 |Winter Moon||
 |**Fourth Heroic**||
-|High Super||
-|High Eternal||
-|High Fallen||
-|High Positivity||
-|High Relentless||
-|High Marauder||
-|High Overlord||
-|High Diabolical||
-|High Cybernetic||
-|High Frozen||
+|High Super|40|
+|High Eternal|25|
+|High Fallen|0|
+|High Positivity|0|
+|High Relentless|0|
+|High Marauder|0|
+|High Overlord|0|
+|High Diabolical|0|
+|High Cybernetic|12|
+|High Frozen|15|
 |**7 Wonders**||
 |Chicen Itza||
 |Pyramid||
@@ -297,10 +297,10 @@ Phenomenon
 |Terra Titan||
 |**Fifth Heroic**||
 |High Ethereal||
-|High Virago||
+|High Virago|25|
 |High Reborn||
 |High Tectonic||
-|High Earthen||
+|High Earthen|25|
 |High Devastation||
 |High Nebula||
 |High White Queen||
