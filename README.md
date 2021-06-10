@@ -69,7 +69,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |necro||
 |christreen||
 |ocean|breed ice + nature (empower 1)|
-|patriot|breed light + Flame|
+|patriot|can summon|
 |summer||
 |bigface||
 |brown haired||
