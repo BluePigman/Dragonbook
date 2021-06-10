@@ -115,14 +115,12 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |super terra|breed pure + pure (empower 1)|
 |third birthday||
 |super star|breed electric + electric (empower 1)|
-|super nature|CAN SUMMON|
 |macha||
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
 |patriot general||
 |zodiac taurus||
 |zodiac cancer||
-|zodiac leo|IN STORAGE|
 |zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
