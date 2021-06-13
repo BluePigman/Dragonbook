@@ -10,7 +10,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Thief||
 | Ace|| 
 |Specter | |
-|Chobby|Breed ice + metal|
 |Cookie||
 |Sheriff||
 |Impassible||
@@ -46,7 +45,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Hell Twin|NOT RESCUABLE|
 |bookday||
 |celtic|Breed Light + Legend|
-|black swan|breed dark + pure|
 |fur||
 |wave||
 |amazone|IN STORAGE|
