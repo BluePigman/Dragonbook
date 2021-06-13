@@ -256,7 +256,6 @@ Phenomenon
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + flame (empower 2)|
-|transcendence|breed primal + light|
 |prewings||
 |heavy armored|breed primal + Nature (empower 1)|
 |Mammatus||
