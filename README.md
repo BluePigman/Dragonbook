@@ -31,7 +31,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |brawny||
 |fathers day||
 |princess||
-|little red riding hood|breed nature + legend|
+|little red riding hood|can summon + crest|
 |adventure||
 |Slam||
 |Detective||
@@ -173,7 +173,6 @@ Phenomenon
 |gravity||
 |sap||
 |imp||
-|crest||
 |super flame|breed flame + flame|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
