@@ -21,7 +21,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |animation||
 |double terra||
 |double nature||
-|double electric||
 |double ice||
 |double metal|breed metal,metal|
 |anniversary||
@@ -83,7 +82,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |bunny||
 |graduation||
 |chicken|breed electric + light|
-|chrome|breed ice + metal|
 |spartan||
 |Ranger|breed legend + ice (empower 1)|
 |bloody||
