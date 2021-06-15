@@ -15,7 +15,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Impassible||
 |Desert||
 |Heart||
-|Bavarian||
 |Oni||
 |Mothers day||
 |animation||
