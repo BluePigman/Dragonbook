@@ -100,7 +100,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |squid||
 |leaf||
 |friendship|NOT BREEDABLE? trade for it|
-|night|breed dark + legend|
 |witch|breed dark + terra (empower 1)|
 |demon||
 |wrestler|breed war + ice (empower 1)|
