@@ -19,13 +19,10 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Mothers day||
 |animation||
 |double terra||
-|double nature||
 |double ice||
 |double metal|breed metal,metal|
 |anniversary||
 |crowned||
-|cheerful||
-|speedy||
 |brawny||
 |fathers day||
 |princess||
@@ -42,7 +39,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Dark ash||
 |Hell Twin|NOT RESCUABLE|
 |bookday||
-|celtic|Breed Light + Legend|
 |fur||
 |wave||
 |amazone|IN STORAGE|
