@@ -26,7 +26,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |brawny||
 |fathers day||
 |princess||
-|little red riding hood|can summon + crest|
 |adventure||
 |Slam||
 |Detective||
@@ -41,7 +40,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |bookday||
 |fur||
 |wave||
-|amazone|IN STORAGE|
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
 |sakura||
@@ -61,7 +59,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |necro||
 |christreen||
 |ocean|breed ice + nature (empower 1)|
-|patriot|can summon|
 |summer||
 |bigface||
 |brown haired||
@@ -93,7 +90,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |vain||
 |demolition||
 |tiamat|CAN SUMMON|
-|squid||
 |leaf||
 |friendship|NOT BREEDABLE? trade for it|
 |witch|breed dark + terra (empower 1)|
