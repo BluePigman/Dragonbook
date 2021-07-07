@@ -8,13 +8,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |  Ghost|  |
 |  Cerberus  |     |
 | Thief||
-| Ace|| 
 |Specter | |
 |Cookie||
 |Sheriff||
-|Impassible||
-|Desert||
-|Heart||
 |Oni||
 |Mothers day||
 |animation||
@@ -33,13 +29,11 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Mystic blizzard|can summon|
 |Rudolph||
 |Anubis||
-|Nightmare|CAN SUMMON|
 |Sunlight|breed light + light (empower 1)|
 |Dark ash||
 |Hell Twin|NOT RESCUABLE|
 |bookday||
 |fur||
-|wave||
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
 |sakura||
@@ -47,7 +41,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |strong||
 |da vinci||
 |firefighter||
-|nisse|breed nature + flawless|
 |firewolf|can summon|
 |ignition||
 |meditation|NOT RESCUABLE|
