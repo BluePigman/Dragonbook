@@ -4,7 +4,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-| Robot |  |
 |  Ghost|  |
 |  Cerberus  |     |
 | Thief||
@@ -25,7 +24,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |adventure||
 |Slam||
 |Detective||
-|Sad|Breed terra + dark|
 |Mystic blizzard|can summon|
 |Rudolph||
 |Anubis||
@@ -195,7 +193,6 @@ Phenomenon
 |**Royal**||
 |Pyrex||
 |Voltaix||
-|Poisonux|breed Legend + Happy (empower 1) ℰ|
 |Demonic|breed War + Flame (empower 2)|
 |teacher||
 |w2s|Cannot Rescue|
@@ -216,7 +213,6 @@ Phenomenon
 |**Second Heroic**||
 |High Spirits|0 orbs|
 |High Star|0 orbs|
-|High Queen|60 orbs|
 |High Purity|0|
 |High Octane|10|
 |High Snow|0|
