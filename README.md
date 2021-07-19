@@ -4,18 +4,16 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|  Ghost|  |
 |  Cerberus  |     |
 | Thief||
 |Specter | |
 |Cookie||
-|Sheriff||
 |Oni||
 |Mothers day||
 |animation||
-|double terra||
+|double terra|can summon|
 |double ice||
-|double metal|breed metal,metal|
+|double metal| can summon|
 |anniversary||
 |crowned||
 |brawny||
@@ -102,7 +100,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |zodiac sagittarius||
 |zodiac capricorn||
 |discus thrower||
-|archer||
 |runner||
 |hero|breed terra + sea (empower 1)|
 |froyo||
@@ -118,7 +115,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |magma|NOT RESCUABLE|
 |terrifying|breed|
 |cowardly|can summon|
-|mwahaha|in storage|
 |royal phoenix|can summon|
 |hunger||
 |conquest|breed|
@@ -232,9 +228,7 @@ Phenomenon
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + flame (empower 2)|
-|prewings||
 |heavy armored|breed primal + Nature (empower 1)|
-|Mammatus||
 |**Legends of Winter**||
 |Winter Comet||
 |Winter Star||
@@ -254,7 +248,6 @@ Phenomenon
 |**7 Wonders**||
 |Chicen Itza||
 |Pyramid||
-|Machu Picchu||
 |Great Wall||
 |**Zombie**||
 |Zombie Terra||
@@ -264,7 +257,6 @@ Phenomenon
 |Zombie Flame||
 |**Titans 2**||
 |War Titan|0|
-|Sea Titan|31|
 |Terra Titan|0|
 |**Fifth Heroic**||
 |High Ethereal|0|
