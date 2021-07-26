@@ -4,23 +4,21 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|  Cerberus  |     |
-| Thief||
-|Specter | |
-|Cookie||
+|  Cerberus  |  can summon   |
+| Thief|in storage|
+|Specter |can summon |
+|Cookie|can summon|
 |Oni||
 |Mothers day||
 |animation||
-|double terra|can summon|
-|double ice||
-|double metal| can summon|
+|double ice|summon with jokers|
 |anniversary||
 |crowned||
 |brawny||
-|fathers day||
-|princess||
+|fathers day|can summon|
+|princess|can summon|
 |adventure||
-|Slam||
+|Slam|can summon (jokers)|
 |Detective||
 |Mystic blizzard|can summon|
 |Rudolph||
@@ -28,11 +26,11 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Sunlight|breed light + light (empower 1)|
 |Dark ash||
 |Hell Twin|NOT RESCUABLE|
-|bookday||
+|bookday|can summon|
 |fur||
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
-|sakura||
+|sakura|60|
 |Blue fire||
 |strong||
 |da vinci||
@@ -40,30 +38,30 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |firewolf|can summon|
 |ignition||
 |meditation|NOT RESCUABLE|
-|asian||
+|asian|can summon|
 |mana|CAN SUMMON|
 |shaolin||
-|scientific||
+|scientific|can summon|
 |red egg||
 |necro||
 |christreen||
 |ocean|breed ice + nature (empower 1)|
-|summer||
-|bigface||
+|summer|can summon|
+|bigface|can summon|
 |brown haired||
 |heat|CAN SUMMON|
 |barley|CAN SUMMON|
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
-|bonfire|breed flame + legend|
-|old general||
-|doctor||
+|bonfire|can summon|
+|old general|can summon|
+|doctor|can summon|
 |motherly||
-|touchdown||
+|touchdown|68|
 |bunny||
-|graduation||
+|graduation|can summon|
 |chicken|breed electric + light|
-|spartan||
+|spartan|78|
 |Ranger|breed legend + ice (empower 1)|
 |bloody||
 |grinchy||
@@ -80,7 +78,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |demolition||
 |tiamat|CAN SUMMON|
 |leaf||
-|friendship|NOT BREEDABLE? trade for it|
+|friendship|can summon|
 |witch|breed dark + terra (empower 1)|
 |demon||
 |wrestler|breed war + ice (empower 1)|
@@ -107,7 +105,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |roller coaster||
 |wolfish||
 |zodiac pisces||
-|brave sword||
 |longhorn|breed terra + terra (empower 1)|
 |sleeping beauty||
 |explosive||
@@ -118,7 +115,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |royal phoenix|can summon|
 |hunger||
 |conquest|breed|
-|warfare|breed|
+|warfare|in storage|
 |geist|NOT RESCUABLE|
 PRODIGY BELOW
 |zodiac gemini||
@@ -130,14 +127,12 @@ PRODIGY BELOW
 |panther||
 |cereal killer||
 |millennial|can summon|
-|icewind||
+|icewind|can summon|
 |valentine|breed legend + chaos (arrows)|
 |furious||
 |one horned||
 Phenomenon
-|Thanksgiving||
 |Robin Hood||
-|Juggler||
 |zodiac aquarius |breed ice + wind (empower 1)|
 |mystic tribe||
 |flesh||
@@ -203,7 +198,6 @@ Phenomenon
 |Cerbery||
 |Satanny||
 |Mongrel||
-|Franky|breed legend + Dream △ empower 1|
 |nineties||
 |childish||
 |**Second Heroic**||
