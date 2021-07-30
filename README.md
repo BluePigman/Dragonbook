@@ -4,11 +4,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|  Cerberus  |  can summon   |
-| Thief|in storage|
-|Specter |can summon |
-|Cookie|can summon|
-|Oni||
 |Mothers day||
 |animation||
 |double ice|summon with jokers|
@@ -30,7 +25,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |fur||
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
-|sakura|60|
+|sakura|can summon|
 |Blue fire||
 |strong||
 |da vinci||
@@ -41,7 +36,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |asian|can summon|
 |mana|CAN SUMMON|
 |shaolin||
-|scientific|can summon|
 |red egg||
 |necro||
 |christreen||
@@ -78,7 +72,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |demolition||
 |tiamat|CAN SUMMON|
 |leaf||
-|friendship|can summon|
 |witch|breed dark + terra (empower 1)|
 |demon||
 |wrestler|breed war + ice (empower 1)|
@@ -115,7 +108,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |royal phoenix|can summon|
 |hunger||
 |conquest|breed|
-|warfare|in storage|
 |geist|NOT RESCUABLE|
 PRODIGY BELOW
 |zodiac gemini||
