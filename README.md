@@ -4,33 +4,22 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|Mothers day||
-|animation||
-|double ice|summon with jokers|
 |anniversary||
-|crowned||
 |brawny||
-|fathers day|can summon|
-|princess|can summon|
 |adventure||
-|Slam|can summon (jokers)|
 |Detective||
-|Mystic blizzard|can summon|
 |Rudolph||
-|Anubis||
+|Anubis|in storage|
 |Sunlight|breed light + light (empower 1)|
-|Dark ash||
+|Dark ash|in storage|
 |Hell Twin|NOT RESCUABLE|
-|bookday|can summon|
 |fur||
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
-|sakura|can summon|
 |Blue fire||
 |strong||
 |da vinci||
 |firefighter||
-|firewolf|can summon|
 |ignition||
 |meditation|NOT RESCUABLE|
 |asian|can summon|
@@ -117,7 +106,7 @@ PRODIGY BELOW
 |voodoo witcher||
 |bear|breed pure + wind (empower 1)|
 |panther||
-|cereal killer||
+|cereal killer|in storage|
 |millennial|can summon|
 |icewind|can summon|
 |valentine|breed legend + chaos (arrows)|
@@ -187,7 +176,7 @@ Phenomenon
 |Child Forever|Cannot rescue|
 |Succuby||
 |Glutty||
-|Cerbery||
+|Cerbery|in storage|
 |Satanny||
 |Mongrel||
 |nineties||
