@@ -11,7 +11,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Rudolph||
 |Anubis|in storage|
 |Sunlight|breed light + light (empower 1)|
-|Dark ash|in storage|
 |Hell Twin|NOT RESCUABLE|
 |fur||
 |wonder|breed light + pure (empower 1)|
@@ -28,7 +27,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |christreen||
 |ocean|breed ice + nature (empower 1)|
 |summer|can summon|
-|bigface|can summon|
 |brown haired||
 |heat|CAN SUMMON|
 |barley|CAN SUMMON|
