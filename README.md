@@ -22,8 +22,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |firefighter||
 |ignition||
 |meditation|NOT RESCUABLE|
-|asian|can summon|
-|mana|CAN SUMMON|
 |shaolin||
 |red egg||
 |necro||
@@ -109,7 +107,6 @@ PRODIGY BELOW
 |cereal killer|in storage|
 |millennial|can summon|
 |icewind|can summon|
-|valentine|breed legend + chaos (arrows)|
 |furious||
 |one horned||
 Phenomenon
@@ -227,11 +224,11 @@ Phenomenon
 |**Zombie**||
 |Zombie Terra||
 |Zombie Nature||
-|Zombie Star||
+|Zombie Star|can summon|
 |High Diabolical||
 |Zombie Flame||
 |**Titans 2**||
-|War Titan|0|
+|War Titan|5|
 |Terra Titan|0|
 |**Fifth Heroic**||
 |High Ethereal|0|
@@ -244,7 +241,6 @@ Phenomenon
 |High White Queen|0|
 |**Vampire Family 2**|0 orbs|
 |Bio-Augmented Vampire||
-|Hexed Vampire||
 |Usurper Vampire||
 |Greedy Vampire||
 
