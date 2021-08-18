@@ -105,6 +105,7 @@ PRODIGY BELOW
 |cereal killer|in storage|
 |millennial|can summon|
 |icewind|can summon|
+|valentine|breed legend + prophet or summon|
 |furious||
 |one horned||
 Phenomenon
