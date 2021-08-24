@@ -4,13 +4,10 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|anniversary||
-|brawny||
+|anniversary|can summon|
 |adventure||
 |Detective||
 |Rudolph||
-|Anubis|in storage|
-|Sunlight|breed light + light (empower 1)|
 |Hell Twin|NOT RESCUABLE|
 |fur||
 |wonder|breed light + pure (empower 1)|
@@ -88,7 +85,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |explosive||
 |spiky||
 |magma|NOT RESCUABLE|
-|terrifying|breed|
 |cowardly|can summon|
 |royal phoenix|can summon|
 |hunger||
@@ -99,10 +95,8 @@ PRODIGY BELOW
 |krait||
 |atlantean||
 |samba||
-|voodoo witcher||
 |bear|breed pure + wind (empower 1)|
 |panther||
-|cereal killer|in storage|
 |millennial|can summon|
 |icewind|can summon|
 |valentine|breed legend + prophet or summon|
@@ -123,7 +117,6 @@ Phenomenon
 |super flame|breed flame + flame|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
-|Hellgate||
 |Faust||
 |Sentence||
 |Valiant||
@@ -170,9 +163,7 @@ Phenomenon
 |Machinery|Cannot Rescue|
 |Alien Lurker||
 |Child Forever|Cannot rescue|
-|Succuby||
 |Glutty||
-|Cerbery|in storage|
 |Satanny||
 |Mongrel||
 |nineties||
@@ -206,7 +197,6 @@ Phenomenon
 |Winter Sun| in storage|
 |Winter Moon||
 |**Fourth Heroic**||
-|High Super|40|
 |High Eternal|25|
 |High Fallen|0|
 |High Positivity|0|
@@ -223,7 +213,6 @@ Phenomenon
 |**Zombie**||
 |Zombie Terra||
 |Zombie Nature||
-|Zombie Star|can summon|
 |High Diabolical||
 |Zombie Flame||
 |**Titans 2**||
