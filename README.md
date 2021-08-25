@@ -154,7 +154,7 @@ Phenomenon
 |**Royal**||
 |Pyrex||
 |Voltaix||
-|Demonic|breed War + Flame (empower 2)|
+|Demonic|summon (HH)|
 |teacher||
 |w2s|Cannot Rescue|
 |Seducing||
