@@ -149,7 +149,7 @@ Phenomenon
 |Draek||
 |Drato||
 |Dragem||
-|Draluxe|breed Light + light (empower 2)|
+|Draluxe|summon (HH)|
 |Dracon||
 |**Royal**||
 |Pyrex||
