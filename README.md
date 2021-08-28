@@ -4,12 +4,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|anniversary|can summon|
-|adventure||
 |Detective||
 |Rudolph||
 |Hell Twin|NOT RESCUABLE|
-|fur||
 |wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
 |Blue fire||
@@ -25,7 +22,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |ocean|breed ice + nature (empower 1)|
 |summer|can summon|
 |brown haired||
-|heat|CAN SUMMON|
 |barley|CAN SUMMON|
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
@@ -114,7 +110,6 @@ Phenomenon
 |gravity||
 |sap||
 |imp||
-|super flame|breed flame + flame|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
 |Faust||
