@@ -20,18 +20,15 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |necro||
 |christreen||
 |ocean|breed ice + nature (empower 1)|
-|summer|can summon|
 |brown haired||
 |barley|CAN SUMMON|
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
 |bonfire|can summon|
-|old general|can summon|
 |doctor|can summon|
 |motherly||
 |touchdown|68|
 |bunny||
-|graduation|can summon|
 |chicken|breed electric + light|
 |spartan|78|
 |Ranger|breed legend + ice (empower 1)|
@@ -44,7 +41,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |boss||
 |chocolate||
 |dual|breed legend + dark (empower 1)|
-|otoroshi||
+|otoroshi|in storage|
 |diva||
 |vain||
 |demolition||
@@ -122,7 +119,7 @@ Phenomenon
 |Winter Phoenix||
 |Enigmatic||
 |Highborn||
-|Ard Ri||
+|Ard Ri|in storage|
 |Glitter||
 |Dark Sky||
 |Void||
@@ -147,7 +144,7 @@ Phenomenon
 |Draluxe|summon (HH)|
 |Dracon||
 |**Royal**||
-|Pyrex||
+|Pyrex|can summon|
 |Voltaix||
 |Demonic|summon (HH)|
 |teacher||
@@ -185,7 +182,6 @@ Phenomenon
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + flame (empower 2)|
-|heavy armored|breed primal + Nature (empower 1)|
 |**Legends of Winter**||
 |Winter Comet||
 |Winter Star||
