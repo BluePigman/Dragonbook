@@ -21,11 +21,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |christreen||
 |ocean|breed ice + nature (empower 1)|
 |brown haired||
-|barley|CAN SUMMON|
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
 |bonfire|can summon|
-|doctor|can summon|
 |motherly||
 |touchdown|68|
 |bunny||
@@ -37,15 +35,12 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |massif|breed legend/ice + ice (empower 2)|
 |necromancer||
 |cyborg||
-|sorcerer||
 |boss||
 |chocolate||
 |dual|breed legend + dark (empower 1)|
-|otoroshi|in storage|
 |diva||
 |vain||
 |demolition||
-|tiamat|CAN SUMMON|
 |leaf||
 |witch|breed dark + terra (empower 1)|
 |demon||
@@ -87,7 +82,6 @@ PRODIGY BELOW
 |zodiac gemini||
 |krait||
 |atlantean||
-|samba||
 |bear|breed pure + wind (empower 1)|
 |panther||
 |millennial|can summon|
@@ -126,17 +120,15 @@ Phenomenon
 |Liquid||
 |Beholder||
 |Rune|Can summon|
-|City Shark||
 |Nightglow|Can summon|
 |Poisonous||
 |Archaic||
-|Betrayer||
-|Dwelling||
+|Dwelling|Can summon|
 |**First Heroic**|Buy orbs in shop/trade|
-|High Fenrir|5 orbs|
-|High Tension|0 orbs|
-|High Tidal|0 orbs|
-|High Supremacy|20 orbs|
+|High Fenrir|10 orbs|
+|High Tension|10 orbs|
+|High Tidal|15 orbs|
+|High Supremacy|25 orbs|
 |**Legends of Deus**||
 |Draek||
 |Drato||
@@ -152,7 +144,7 @@ Phenomenon
 |Seducing||
 |Challenge||
 |Scheme||
-|Machinery|Cannot Rescue|
+|Machinery|summon (HH)|
 |Alien Lurker||
 |Child Forever|Cannot rescue|
 |Glutty||
@@ -162,23 +154,23 @@ Phenomenon
 |childish||
 |**Second Heroic**||
 |High Spirits|0 orbs|
-|High Star|0 orbs|
+|High Star|22 orbs|
 |High Purity|0|
 |High Octane|10|
-|High Snow|0|
-|High Portal|0|
-|High Celestial|0|
+|High Snow|5|
+|High Portal|10|
+|High Celestial|25|
 |**Third Heroic**||
-|High Superstition|25|
+|High Superstition|20|
 |High Resolution|0|
-|High Score|5|
+|High Score|15|
 |High Feral|0|
-|Yggdrasil|0|
-|High Commander|0|
-|High Reverie|0|
+|Yggdrasil|10|
+|High Commander|5|
+|High Reverie|5|
 |High Zephyr|0|
 |High Winter|10|
-|High Malicious|0|
+|High Malicious|30|
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + flame (empower 2)|
@@ -188,14 +180,14 @@ Phenomenon
 |Winter Sun| in storage|
 |Winter Moon||
 |**Fourth Heroic**||
-|High Eternal|25|
+|High Eternal|40|
 |High Fallen|0|
 |High Positivity|0|
 |High Relentless|0|
 |High Marauder|0|
 |High Overlord|0|
 |High Diabolical|0|
-|High Cybernetic|12|
+|High Cybernetic|17|
 |High Frozen|15|
 |**7 Wonders**||
 |Chicen Itza||
@@ -208,16 +200,16 @@ Phenomenon
 |Zombie Flame||
 |**Titans 2**||
 |War Titan|5|
-|Terra Titan|0|
+|Terra Titan|5|
 |**Fifth Heroic**||
 |High Ethereal|0|
 |High Virago|25|
-|High Reborn|0|
-|High Tectonic|0|
+|High Reborn|10|
+|High Tectonic|5|
 |High Earthen|25|
 |High Devastation|0|
 |High Nebula|0|
-|High White Queen|0|
+|High White Queen|25|
 |**Vampire Family 2**|0 orbs|
 |Bio-Augmented Vampire||
 |Usurper Vampire||
