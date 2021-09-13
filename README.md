@@ -113,16 +113,17 @@ Phenomenon
 |Winter Phoenix||
 |Enigmatic||
 |Highborn||
-|Ard Ri|in storage|
 |Glitter||
 |Dark Sky||
 |Void||
 |Liquid||
 |Beholder||
 |Rune|Can summon|
+|City Shark | in storage |
 |Nightglow|Can summon|
 |Poisonous||
 |Archaic||
+|Betrayer|In storage|
 |Dwelling|Can summon|
 |**First Heroic**|Buy orbs in shop/trade|
 |High Fenrir|10 orbs|
