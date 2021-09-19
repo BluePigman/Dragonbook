@@ -23,12 +23,11 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |brown haired||
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
-|bonfire|can summon|
 |motherly||
-|touchdown|68|
+|touchdown|can summon|
 |bunny||
 |chicken|breed electric + light|
-|spartan|78|
+|spartan|can summon|
 |Ranger|breed legend + ice (empower 1)|
 |bloody||
 |grinchy||
@@ -51,7 +50,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |super terra|breed pure + pure (empower 1)|
 |third birthday||
 |super star|breed electric + electric (empower 1)|
-|macha||
+|macha|in storage|
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
 |patriot general||
@@ -73,8 +72,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |explosive||
 |spiky||
 |magma|NOT RESCUABLE|
-|cowardly|can summon|
-|royal phoenix|can summon|
+|royal phoenix|summon (HH)|
 |hunger||
 |conquest|breed|
 |geist|NOT RESCUABLE|
@@ -85,7 +83,6 @@ PRODIGY BELOW
 |bear|breed pure + wind (empower 1)|
 |panther||
 |millennial|can summon|
-|icewind|can summon|
 |valentine|breed legend + prophet or summon|
 |furious||
 |one horned||
@@ -119,8 +116,6 @@ Phenomenon
 |Liquid||
 |Beholder||
 |Rune|Can summon|
-|City Shark | in storage |
-|Nightglow|Can summon|
 |Poisonous||
 |Archaic||
 |Betrayer|In storage|
@@ -137,10 +132,9 @@ Phenomenon
 |Draluxe|summon (HH)|
 |Dracon||
 |**Royal**||
-|Pyrex|can summon|
 |Voltaix||
 |Demonic|summon (HH)|
-|teacher||
+|teacher|in storage|
 |w2s|Cannot Rescue|
 |Seducing||
 |Challenge||
@@ -198,7 +192,6 @@ Phenomenon
 |Zombie Terra||
 |Zombie Nature||
 |High Diabolical||
-|Zombie Flame||
 |**Titans 2**||
 |War Titan|5|
 |Terra Titan|5|
@@ -215,6 +208,3 @@ Phenomenon
 |Bio-Augmented Vampire||
 |Usurper Vampire||
 |Greedy Vampire||
-
-
-
