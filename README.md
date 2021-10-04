@@ -24,11 +24,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
 |motherly||
-|touchdown|can summon|
 |bunny||
-|chicken|breed electric + light|
-|spartan|can summon|
-|Ranger|breed legend + ice (empower 1)|
 |bloody||
 |grinchy||
 |massif|breed legend/ice + ice (empower 2)|
@@ -37,20 +33,16 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |boss||
 |chocolate||
 |dual|breed legend + dark (empower 1)|
-|diva||
-|vain||
 |demolition||
 |leaf||
 |witch|breed dark + terra (empower 1)|
 |demon||
 |wrestler|breed war + ice (empower 1)|
-|space||
 |white alien||
 |tackle|breed dark + electric (empower 1)|
 |super terra|breed pure + pure (empower 1)|
 |third birthday||
 |super star|breed electric + electric (empower 1)|
-|macha|in storage|
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
 |patriot general||
@@ -59,7 +51,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
-|discus thrower||
 |runner||
 |hero|breed terra + sea (empower 1)|
 |froyo||
@@ -82,8 +73,7 @@ PRODIGY BELOW
 |atlantean||
 |bear|breed pure + wind (empower 1)|
 |panther||
-|millennial|can summon|
-|valentine|breed legend + prophet or summon|
+|millennial|in storage|
 |furious||
 |one horned||
 Phenomenon
@@ -93,7 +83,7 @@ Phenomenon
 |flesh||
 |cruel||
 |cow||
-|supernova||
+|supernova|in storage|
 |fervor|breed pure + war (empower 2)|
 |gravity||
 |sap||
@@ -115,11 +105,8 @@ Phenomenon
 |Void||
 |Liquid||
 |Beholder||
-|Rune|Can summon|
 |Poisonous||
 |Archaic||
-|Betrayer|In storage|
-|Dwelling|Can summon|
 |**First Heroic**|Buy orbs in shop/trade|
 |High Fenrir|10 orbs|
 |High Tension|10 orbs|
@@ -134,7 +121,6 @@ Phenomenon
 |**Royal**||
 |Voltaix||
 |Demonic|summon (HH)|
-|teacher|in storage|
 |w2s|Cannot Rescue|
 |Seducing||
 |Challenge||
@@ -145,7 +131,6 @@ Phenomenon
 |Glutty||
 |Satanny||
 |Mongrel||
-|nineties||
 |childish||
 |**Second Heroic**||
 |High Spirits|0 orbs|
@@ -193,18 +178,16 @@ Phenomenon
 |Zombie Nature||
 |High Diabolical||
 |**Titans 2**||
-|War Titan|5|
 |Terra Titan|5|
 |**Fifth Heroic**||
 |High Ethereal|0|
 |High Virago|25|
 |High Reborn|10|
-|High Tectonic|5|
 |High Earthen|25|
 |High Devastation|0|
 |High Nebula|0|
 |High White Queen|25|
-|**Vampire Family 2**|0 orbs|
-|Bio-Augmented Vampire||
-|Usurper Vampire||
-|Greedy Vampire||
+|**Vampire Family 2**||
+|Bio-Augmented Vampire|10 orbs|
+|Usurper Vampire|0 orbs|
+|Greedy Vampire|10 orbs|
