@@ -7,7 +7,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |Detective||
 |Rudolph||
 |Hell Twin|NOT RESCUABLE|
-|wonder|breed light + pure (empower 1)|
 |bohemian|metal + legend (empower 1)|
 |Blue fire||
 |strong||
@@ -51,10 +50,8 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
-|runner||
 |hero|breed terra + sea (empower 1)|
 |froyo||
-|free spirit||
 |roller coaster||
 |wolfish||
 |zodiac pisces||
@@ -64,7 +61,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |spiky||
 |magma|NOT RESCUABLE|
 |royal phoenix|summon (HH)|
-|hunger||
 |conquest|breed|
 |geist|NOT RESCUABLE|
 PRODIGY BELOW
@@ -73,7 +69,6 @@ PRODIGY BELOW
 |atlantean||
 |bear|breed pure + wind (empower 1)|
 |panther||
-|millennial|in storage|
 |furious||
 |one horned||
 Phenomenon
@@ -83,9 +78,8 @@ Phenomenon
 |flesh||
 |cruel||
 |cow||
-|supernova|in storage|
 |fervor|breed pure + war (empower 2)|
-|gravity||
+|gravity| in storage|
 |sap||
 |imp||
 |berserk||
@@ -127,7 +121,6 @@ Phenomenon
 |Scheme||
 |Machinery|summon (HH)|
 |Alien Lurker||
-|Child Forever|Cannot rescue|
 |Glutty||
 |Satanny||
 |Mongrel||
@@ -189,5 +182,5 @@ Phenomenon
 |High White Queen|25|
 |**Vampire Family 2**||
 |Bio-Augmented Vampire|10 orbs|
-|Usurper Vampire|0 orbs|
+|Usurper Vampire|6 orbs|
 |Greedy Vampire|10 orbs|
