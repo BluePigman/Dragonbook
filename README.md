@@ -146,7 +146,7 @@ Phenomenon
 |High Malicious|30|
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
-|Vulcan|breed Primal + flame (empower 2)|
+|Vulcan|breed Primal + war (empower 2)|
 |**Legends of Winter**||
 |Winter Comet||
 |Winter Star||
