@@ -4,11 +4,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|Detective||
 |Rudolph||
 |Hell Twin|NOT RESCUABLE|
 |bohemian|metal + legend (empower 1)|
-|Blue fire||
 |strong||
 |da vinci||
 |firefighter||
@@ -55,10 +53,8 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |roller coaster||
 |wolfish||
 |zodiac pisces||
-|longhorn|breed terra + terra (empower 1)|
 |sleeping beauty||
 |explosive||
-|spiky||
 |magma|NOT RESCUABLE|
 |royal phoenix|summon (HH)|
 |conquest|breed|
@@ -79,9 +75,7 @@ Phenomenon
 |cruel||
 |cow||
 |fervor|breed pure + war (empower 2)|
-|gravity| in storage|
 |sap||
-|imp||
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
 |Faust||
@@ -117,13 +111,11 @@ Phenomenon
 |Demonic|summon (HH)|
 |w2s|Cannot Rescue|
 |Seducing||
-|Challenge||
 |Scheme||
 |Machinery|summon (HH)|
 |Alien Lurker||
 |Glutty||
 |Satanny||
-|Mongrel||
 |childish||
 |**Second Heroic**||
 |High Spirits|0 orbs|
