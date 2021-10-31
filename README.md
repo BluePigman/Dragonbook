@@ -4,20 +4,16 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|Rudolph||
 |Hell Twin|NOT RESCUABLE|
-|bohemian|metal + legend (empower 1)|
+|bohemian|can summon|
 |strong||
-|da vinci||
-|firefighter||
-|ignition||
-|meditation|NOT RESCUABLE|
+|ignition|15 orbs|
+|meditation|5 orbs|
 |shaolin||
 |red egg||
 |necro||
 |christreen||
 |ocean|breed ice + nature (empower 1)|
-|brown haired||
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
 |motherly||
@@ -31,9 +27,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |chocolate||
 |dual|breed legend + dark (empower 1)|
 |demolition||
-|leaf||
+|leaf|5 orbs|
 |witch|breed dark + terra (empower 1)|
-|demon||
+|demon|5 orbs|
 |wrestler|breed war + ice (empower 1)|
 |white alien||
 |tackle|breed dark + electric (empower 1)|
@@ -42,25 +38,25 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |super star|breed electric + electric (empower 1)|
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
-|patriot general||
+|patriot general|19 orbs|
 |zodiac taurus||
 |zodiac cancer||
 |zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
 |hero|breed terra + sea (empower 1)|
-|froyo||
-|roller coaster||
-|wolfish||
-|zodiac pisces||
+|froyo|9 orbs|
+|roller coaster|50 orbs|
+|wolfish|32 orbs|
+|zodiac pisces|5 orbs|
 |sleeping beauty||
 |explosive||
-|magma|NOT RESCUABLE|
-|royal phoenix|summon (HH)|
-|conquest|breed|
-|geist|NOT RESCUABLE|
+|magma|14 orbs|
+|royal phoenix|20 orbs|
+|conquest|breed light + terra (empower 1)|
+|geist|6 orbs|
 PRODIGY BELOW
-|zodiac gemini||
+|zodiac gemini|24 orbs|
 |krait||
 |atlantean||
 |bear|breed pure + wind (empower 1)|
@@ -71,71 +67,70 @@ Phenomenon
 |Robin Hood||
 |zodiac aquarius |breed ice + wind (empower 1)|
 |mystic tribe||
-|flesh||
 |cruel||
 |cow||
 |fervor|breed pure + war (empower 2)|
 |sap||
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
-|Faust||
+|Faust|50 orbs|
 |Sentence||
 |Valiant||
 |Bushido||
-|Demigod||
+|Demigod|20 orbs|
 |Turkey||
-|Rocket||
+|Rocket|4 orbs|
 |Winter Phoenix||
-|Enigmatic||
+|Enigmatic|8 orbs|
 |Highborn||
 |Glitter||
 |Dark Sky||
 |Void||
-|Liquid||
-|Beholder||
-|Poisonous||
+|Liquid|7 orbs|
+|Beholder|37 orbs|
+|Poisonous|28 orbs|
 |Archaic||
 |**First Heroic**|Buy orbs in shop/trade|
-|High Fenrir|10 orbs|
-|High Tension|10 orbs|
+|High Fenrir|in storage|
+|High Tension|5 orbs|
 |High Tidal|15 orbs|
 |High Supremacy|25 orbs|
 |**Legends of Deus**||
-|Draek||
-|Drato||
-|Dragem||
-|Draluxe|summon (HH)|
-|Dracon||
+|Draek|15 orbs|
+|Drato|32 orbs|
+|Dragem|12 orbs|
+|Draluxe|summon (HH) 12 orbs|
+|Dracon|4 orbs|
 |**Royal**||
-|Voltaix||
-|Demonic|summon (HH)|
+|Voltaix|6 orbs|
+|Demonic|summon (HH) 6 orbs|
 |w2s|Cannot Rescue|
-|Seducing||
+|Seducing|14 orbs|
 |Scheme||
-|Machinery|summon (HH)|
+|Machinery|summon (HH) 23 orbs|
 |Alien Lurker||
 |Glutty||
 |Satanny||
-|childish||
+|childish|11 orbs|
 |**Second Heroic**||
 |High Spirits|0 orbs|
-|High Star|22 orbs|
+|High Star|52 orbs|
 |High Purity|0|
 |High Octane|10|
 |High Snow|5|
 |High Portal|10|
 |High Celestial|25|
 |**Third Heroic**||
-|High Superstition|20|
-|High Resolution|0|
+|High Superstition|25|
+|High Resolution|7|
 |High Score|15|
 |High Feral|0|
-|Yggdrasil|10|
-|High Commander|5|
-|High Reverie|5|
+|Yggdrasil|15|
+|High Commander|30|
+|High Reverie|30|
 |High Zephyr|0|
 |High Winter|10|
-|High Malicious|30|
+|High Malicious|60|
 |**Alliance Chest**||
 |Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + war (empower 2)|
@@ -143,14 +138,14 @@ Phenomenon
 |Winter Comet||
 |Winter Star||
 |Winter Sun| in storage|
-|Winter Moon||
+|Winter Moon|5 orbs|
 |**Fourth Heroic**||
-|High Eternal|40|
+|High Eternal|in storage|
 |High Fallen|0|
 |High Positivity|0|
-|High Relentless|0|
+|High Relentless|5|
 |High Marauder|0|
-|High Overlord|0|
+|High Overlord|40|
 |High Diabolical|0|
 |High Cybernetic|17|
 |High Frozen|15|
@@ -163,16 +158,12 @@ Phenomenon
 |Zombie Nature||
 |High Diabolical||
 |**Titans 2**||
-|Terra Titan|5|
+|Terra Titan|25|
 |**Fifth Heroic**||
-|High Ethereal|0|
+|High Ethereal|5|
 |High Virago|25|
-|High Reborn|10|
-|High Earthen|25|
+|High Reborn|15|
+|High Earthen|30|
 |High Devastation|0|
 |High Nebula|0|
 |High White Queen|25|
-|**Vampire Family 2**||
-|Bio-Augmented Vampire|10 orbs|
-|Usurper Vampire|6 orbs|
-|Greedy Vampire|10 orbs|
