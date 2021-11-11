@@ -30,7 +30,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |leaf|5 orbs|
 |witch|breed dark + terra (empower 1)|
 |demon|5 orbs|
-|wrestler|breed war + ice (empower 1)|
+|wrestler|breed war + war (empower 1)|
 |white alien||
 |tackle|breed dark + electric (empower 1)|
 |super terra|breed pure + pure (empower 1)|
