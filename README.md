@@ -5,7 +5,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
 |Hell Twin|NOT RESCUABLE|
-|bohemian|can summon|
 |strong||
 |ignition|15 orbs|
 |meditation|5 orbs|
@@ -13,11 +12,10 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |red egg||
 |necro||
 |christreen||
-|ocean|breed ice + nature (empower 1)|
 |Cyber|breed electric + war (empower 1)|
 |la muerta||
 |motherly||
-|bunny||
+|bunny|in storage|
 |bloody||
 |grinchy||
 |massif|breed legend/ice + ice (empower 2)|
@@ -49,7 +47,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |roller coaster|50 orbs|
 |wolfish|32 orbs|
 |zodiac pisces|5 orbs|
-|sleeping beauty||
 |explosive||
 |magma|14 orbs|
 |royal phoenix|20 orbs|
@@ -58,19 +55,16 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 PRODIGY BELOW
 |zodiac gemini|24 orbs|
 |krait||
-|atlantean||
 |bear|breed pure + wind (empower 1)|
 |panther||
 |furious||
-|one horned||
 Phenomenon
 |Robin Hood||
 |zodiac aquarius |breed ice + wind (empower 1)|
-|mystic tribe||
 |cruel||
 |cow||
 |fervor|breed pure + war (empower 2)|
-|sap||
+|sap|can summon|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
 |Faust|50 orbs|
@@ -91,7 +85,6 @@ Phenomenon
 |Poisonous|28 orbs|
 |Archaic||
 |**First Heroic**|Buy orbs in shop/trade|
-|High Fenrir|in storage|
 |High Tension|5 orbs|
 |High Tidal|15 orbs|
 |High Supremacy|25 orbs|
@@ -105,7 +98,7 @@ Phenomenon
 |Voltaix|6 orbs|
 |Demonic|summon (HH) 6 orbs|
 |w2s|Cannot Rescue|
-|Seducing|14 orbs|
+|Seducing|in storage|
 |Scheme||
 |Machinery|summon (HH) 23 orbs|
 |Alien Lurker||
