@@ -21,29 +21,24 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |massif|breed legend/ice + ice (empower 2)|
 |necromancer||
 |cyborg||
-|boss||
 |chocolate||
 |dual|breed legend + dark (empower 1)|
 |demolition||
 |leaf|5 orbs|
-|witch|breed dark + terra (empower 1)|
 |demon|5 orbs|
 |wrestler|breed war + war (empower 1)|
 |white alien||
 |tackle|breed dark + electric (empower 1)|
-|super terra|breed pure + pure (empower 1)|
 |third birthday||
 |super star|breed electric + electric (empower 1)|
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
 |patriot general|19 orbs|
-|zodiac taurus||
 |zodiac cancer||
 |zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
 |hero|breed terra + sea (empower 1)|
-|froyo|9 orbs|
 |roller coaster|50 orbs|
 |wolfish|32 orbs|
 |zodiac pisces|5 orbs|
@@ -64,7 +59,6 @@ Phenomenon
 |cruel||
 |cow||
 |fervor|breed pure + war (empower 2)|
-|sap|can summon|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
 |Faust|50 orbs|
@@ -95,7 +89,6 @@ Phenomenon
 |Draluxe|summon (HH) 12 orbs|
 |Dracon|4 orbs|
 |**Royal**||
-|Voltaix|6 orbs|
 |Demonic|summon (HH) 6 orbs|
 |w2s|Cannot Rescue|
 |Seducing|in storage|
