@@ -8,14 +8,11 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |strong||
 |ignition|26 orbs|
 |meditation|5 orbs|
-|shaolin|5|
 |red egg||
 |necro||
-|christreen|5|
 |la muerta||
 |motherly||
 |bloody||
-|grinchy||
 |massif|14 orbs / breed legend/ice + ice (empower 2)|
 |necromancer||
 |cyborg||
@@ -31,7 +28,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |super star|breed electric + electric (empower 1)|
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
-|patriot general|19 orbs|
 |zodiac cancer||
 |zodiac virgo||
 |zodiac sagittarius||
@@ -91,7 +87,6 @@ Phenomenon
 |Satanny||
 |childish|11 orbs|
 |**Second Heroic**||
-|High Spirits|0 orbs|
 |High Star|52 orbs|
 |High Purity|0|
 |High Octane|10|
@@ -106,7 +101,6 @@ Phenomenon
 |Yggdrasil|15|
 |High Commander|30|
 |High Reverie|30|
-|High Zephyr|in storage|
 |High Winter|10|
 |High Malicious|60|
 |**Alliance Chest**||
@@ -114,8 +108,6 @@ Phenomenon
 |Vulcan|breed Primal + war (empower 2)|
 |**Legends of Winter**||
 |Winter Comet||
-|Winter Star||
-|Winter Sun| in storage|
 |Winter Moon|5 orbs|
 |**Fourth Heroic**||
 |High Fallen|0|
@@ -142,5 +134,5 @@ Phenomenon
 |High Reborn|15|
 |High Earthen|30|
 |High Devastation|5|
-|High Nebula|0|
+|High Nebula|5|
 |High White Queen|25|
