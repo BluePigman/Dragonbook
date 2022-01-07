@@ -17,11 +17,10 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |necromancer||
 |cyborg||
 |chocolate||
-|dual|breed legend + dark (empower 1)|
 |demolition||
 |leaf|5 orbs|
 |demon|5 orbs|
-|wrestler|breed war + war (empower 1)|
+|wrestler|summon (HH)|
 |white alien||
 |tackle|breed dark + electric (empower 1)|
 |third birthday||
@@ -29,7 +28,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |joke||
 |symbiotic|breed sea + sea (empower 1)|
 |zodiac cancer||
-|zodiac virgo||
 |zodiac sagittarius||
 |zodiac capricorn||
 |hero|breed terra + sea (empower 1)|
@@ -95,7 +93,7 @@ Phenomenon
 |High Celestial|25|
 |**Third Heroic**||
 |High Superstition|25|
-|High Resolution|7|
+|High Resolution|in storage|
 |High Score|15|
 |High Feral|0|
 |Yggdrasil|15|
@@ -104,10 +102,8 @@ Phenomenon
 |High Winter|10|
 |High Malicious|60|
 |**Alliance Chest**||
-|Solar-Powered|breed primal + flame (empower 1)|
 |Vulcan|breed Primal + war (empower 2)|
 |**Legends of Winter**||
-|Winter Comet||
 |Winter Moon|5 orbs|
 |**Fourth Heroic**||
 |High Fallen|0|
@@ -127,7 +123,6 @@ Phenomenon
 |Zombie Nature||
 |High Diabolical||
 |**Titans 2**||
-|Terra Titan|57|
 |**Fifth Heroic**||
 |High Ethereal|5|
 |High Virago|25|
