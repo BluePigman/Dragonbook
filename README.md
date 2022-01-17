@@ -5,11 +5,8 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
 |Hell Twin|NOT RESCUABLE|
-|strong||
 |ignition|26 orbs|
 |meditation|5 orbs|
-|red egg||
-|necro||
 |la muerta||
 |motherly||
 |bloody||
@@ -17,10 +14,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |necromancer||
 |cyborg||
 |chocolate||
-|demolition||
+|demolition|10 orbs|
 |leaf|5 orbs|
 |demon|5 orbs|
-|wrestler|summon (HH)|
 |white alien||
 |tackle|breed dark + electric (empower 1)|
 |third birthday||
@@ -29,7 +25,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |symbiotic|breed sea + sea (empower 1)|
 |zodiac cancer||
 |zodiac sagittarius||
-|zodiac capricorn||
+|zodiac capricorn|in storage|
 |hero|breed terra + sea (empower 1)|
 |explosive||
 |magma|14 orbs|
@@ -77,12 +73,11 @@ Phenomenon
 |Dracon|4 orbs|
 |**Royal**||
 |Demonic|summon (HH) 6 orbs|
-|w2s|10 orbs|
 |Scheme||
 |Machinery|summon (HH) 23 orbs|
 |Alien Lurker||
 |Glutty||
-|Satanny||
+|Satanny|5 orbs|
 |childish|11 orbs|
 |**Second Heroic**||
 |High Star|52 orbs|
@@ -93,9 +88,8 @@ Phenomenon
 |High Celestial|25|
 |**Third Heroic**||
 |High Superstition|25|
-|High Resolution|in storage|
 |High Score|15|
-|High Feral|0|
+|High Feral|10|
 |Yggdrasil|15|
 |High Commander|30|
 |High Reverie|30|
@@ -115,14 +109,13 @@ Phenomenon
 |High Cybernetic|17|
 |High Frozen|15|
 |**7 Wonders**||
-|Chicen Itza||
+|Chicen Itza|in storage|
 |Pyramid||
 |Great Wall||
 |**Zombie**||
 |Zombie Terra||
 |Zombie Nature||
 |High Diabolical||
-|**Titans 2**||
 |**Fifth Heroic**||
 |High Ethereal|5|
 |High Virago|25|
