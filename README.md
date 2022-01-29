@@ -5,122 +5,113 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
 |Hell Twin|NOT RESCUABLE|
-|ignition|26 orbs|
+|ignition|32 orbs|
 |meditation|5 orbs|
 |la muerta||
 |motherly||
 |bloody||
-|massif|14 orbs / breed legend/ice + ice (empower 2)|
-|necromancer||
+|massif|52 orbs|
 |cyborg||
 |chocolate||
 |demolition|10 orbs|
 |leaf|5 orbs|
 |demon|5 orbs|
 |white alien||
-|tackle|breed dark + electric (empower 1)|
+|tackle|47 orbs / breed dark + electric (empower 1)|
 |third birthday||
-|super star|breed electric + electric (empower 1)|
-|joke||
-|symbiotic|breed sea + sea (empower 1)|
+|super star|22 orbs / breed electric + electric (empower 1)|
+|symbiotic|27 orbs / breed sea + sea (empower 1)|
 |zodiac cancer||
 |zodiac sagittarius||
-|zodiac capricorn|in storage|
-|hero|breed terra + sea (empower 1)|
+|hero|5 orbs / breed terra + sea (empower 1)|
 |explosive||
-|magma|14 orbs|
-|royal phoenix|20 orbs|
-|conquest|breed light + terra (empower 1)|
+|magma|21 orbs|
+|royal phoenix|38 orbs|
 |geist|6 orbs|
 PRODIGY BELOW
 |krait||
-|bear|breed pure + wind (empower 1)|
+|bear|summon (hh)|
 |panther||
-|furious||
+|furious|HH|
 Phenomenon
-|zodiac aquarius |breed ice + wind (empower 1)|
-|cruel||
+|zodiac aquarius |25 orbs / breed ice + wind (empower 1)|
+|cruel|HH|
 |cow||
-|fervor|breed pure + war (empower 2)|
+|fervor|10 orbs / breed pure + war (empower 2)|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
-|Faust|50 orbs|
-|Sentence|21|
+|Faust|64 orbs|
+|Sentence|26|
 |Valiant||
 |Bushido||
 |Demigod|20 orbs|
-|Turkey|50|
+|Turkey|58|
 |Rocket|4 orbs|
-|Winter Phoenix||
 |Enigmatic|8 orbs|
 |Highborn||
 |Glitter||
 |Dark Sky||
 |Void||
-|Liquid|7 orbs|
-|Beholder|37 orbs|
-|Poisonous|28 orbs|
+|Liquid|19 orbs|
+|Beholder|can summon|
+|Poisonous|can summon|
 |Archaic||
 |**First Heroic**|Buy orbs in shop/trade|
-|High Tension|5 orbs|
-|High Tidal|15 orbs|
-|High Supremacy|25 orbs|
+|High Tension|20 orbs|
+|High Tidal|45 orbs|
+|High Supremacy|40 orbs|
 |**Legends of Deus**||
 |Draek|15 orbs|
-|Drato|32 orbs|
-|Dragem|12 orbs|
+|Drato|37 orbs|
+|Dragem|24 orbs|
 |Draluxe|summon (HH) 12 orbs|
 |Dracon|4 orbs|
 |**Royal**||
-|Demonic|summon (HH) 6 orbs|
+|Demonic|summon (HH) 32 orbs|
 |Scheme||
-|Machinery|summon (HH) 23 orbs|
+|Machinery|summon (HH) 26 orbs|
 |Alien Lurker||
 |Glutty||
 |Satanny|5 orbs|
-|childish|11 orbs|
+|childish|50 orbs|
 |**Second Heroic**||
-|High Star|52 orbs|
-|High Purity|0|
-|High Octane|10|
-|High Snow|5|
-|High Portal|10|
-|High Celestial|25|
+|High Star|can summon|
+|High Purity|20|
+|High Octane|20|
+|High Snow|20|
+|High Portal|50|
+|High Celestial|35|
 |**Third Heroic**||
-|High Superstition|25|
-|High Score|15|
+|High Superstition|55|
+|High Score|25|
 |High Feral|10|
-|Yggdrasil|15|
-|High Commander|30|
+|Yggdrasil|40|
+|High Commander|40|
 |High Reverie|30|
-|High Winter|10|
-|High Malicious|60|
+|High Winter|25|
+|High Malicious|80|
 |**Alliance Chest**||
 |Vulcan|breed Primal + war (empower 2)|
-|**Legends of Winter**||
-|Winter Moon|5 orbs|
 |**Fourth Heroic**||
-|High Fallen|0|
-|High Positivity|0|
-|High Relentless|5|
-|High Marauder|0|
+|High Fallen|20|
+|High Positivity|15|
+|High Relentless|35|
+|High Marauder|37|
 |High Overlord|40|
-|High Diabolical|0|
-|High Cybernetic|17|
-|High Frozen|15|
+|High Diabolical|25|
+|High Cybernetic|27|
+|High Frozen|35|
 |**7 Wonders**||
-|Chicen Itza|in storage|
 |Pyramid||
-|Great Wall||
+|Great Wall|can summon|
 |**Zombie**||
 |Zombie Terra||
 |Zombie Nature||
-|High Diabolical||
 |**Fifth Heroic**||
-|High Ethereal|5|
+|High Ethereal|25|
 |High Virago|25|
-|High Reborn|15|
-|High Earthen|30|
-|High Devastation|5|
-|High Nebula|5|
-|High White Queen|25|
+|High Reborn|30|
+|High Earthen|40|
+|High Devastation|15|
+|High Nebula|20|
+|High White Queen|30|
