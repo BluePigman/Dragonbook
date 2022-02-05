@@ -5,7 +5,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
 |Hell Twin|NOT RESCUABLE|
-|ignition|32 orbs|
 |meditation|5 orbs|
 |la muerta||
 |motherly||
@@ -17,13 +16,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |leaf|5 orbs|
 |demon|5 orbs|
 |white alien||
-|tackle|47 orbs / breed dark + electric (empower 1)|
 |third birthday||
-|super star|22 orbs / breed electric + electric (empower 1)|
-|symbiotic|27 orbs / breed sea + sea (empower 1)|
 |zodiac cancer||
 |zodiac sagittarius||
-|hero|5 orbs / breed terra + sea (empower 1)|
 |explosive||
 |magma|21 orbs|
 |royal phoenix|38 orbs|
@@ -50,11 +45,10 @@ Phenomenon
 |Enigmatic|8 orbs|
 |Highborn||
 |Glitter||
-|Dark Sky||
+|Dark Sky|5|
 |Void||
 |Liquid|19 orbs|
 |Beholder|can summon|
-|Poisonous|can summon|
 |Archaic||
 |**First Heroic**|Buy orbs in shop/trade|
 |High Tension|20 orbs|
@@ -103,7 +97,6 @@ Phenomenon
 |High Frozen|35|
 |**7 Wonders**||
 |Pyramid||
-|Great Wall|can summon|
 |**Zombie**||
 |Zombie Terra||
 |Zombie Nature||
