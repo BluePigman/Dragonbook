@@ -23,6 +23,9 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |magma|21 orbs|
 |royal phoenix|38 orbs|
 |geist|6 orbs|
+|frozebeast| HH|
+|vanoss| HH| 
+|crazy| |
 PRODIGY BELOW
 |krait||
 |bear|summon (hh)|
