@@ -23,7 +23,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |geist|6 orbs|
 |frozebeast| HH|
 |vanoss| HH| 
-|crazy| |
+|crazy|in storage |
 PRODIGY BELOW
 |krait||
 |bear|summon (hh)|
