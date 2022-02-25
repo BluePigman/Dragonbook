@@ -8,13 +8,11 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |meditation|5 orbs|
 |la muerta||
 |motherly||
-|bloody||
-|massif|52 orbs|
+|massif|79 orbs|
 |cyborg||
 |chocolate||
 |demolition|10 orbs|
 |leaf|5 orbs|
-|demon|5 orbs|
 |white alien||
 |third birthday||
 |zodiac cancer||
@@ -51,7 +49,6 @@ Phenomenon
 |Dark Sky|5|
 |Void||
 |Liquid|19 orbs|
-|Beholder|can summon|
 |Archaic||
 |**First Heroic**|Buy orbs in shop/trade|
 |High Tension|20 orbs|
@@ -60,7 +57,6 @@ Phenomenon
 |**Legends of Deus**||
 |Draek|15 orbs|
 |Drato|37 orbs|
-|Dragem|24 orbs|
 |Draluxe|summon (HH) 12 orbs|
 |Dracon|4 orbs|
 |**Royal**||
@@ -68,7 +64,6 @@ Phenomenon
 |Scheme||
 |Machinery|summon (HH) 26 orbs|
 |Alien Lurker||
-|Glutty||
 |Satanny|5 orbs|
 |childish|50 orbs|
 |**Second Heroic**||
@@ -86,9 +81,8 @@ Phenomenon
 |High Commander|40|
 |High Reverie|30|
 |High Winter|25|
-|High Malicious|80|
 |**Alliance Chest**||
-|Vulcan|breed Primal + war (empower 2)|
+|Vulcan|HH|
 |**Fourth Heroic**||
 |High Fallen|20|
 |High Positivity|15|
@@ -102,7 +96,7 @@ Phenomenon
 |Pyramid||
 |**Zombie**||
 |Zombie Terra||
-|Zombie Nature||
+|Zombie Nature|storage|
 |**Fifth Heroic**||
 |High Ethereal|25|
 |High Virago|25|
