@@ -8,14 +8,12 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |meditation|5 orbs|
 |la muerta||
 |motherly||
-|massif|79 orbs|
 |cyborg||
 |chocolate||
 |demolition|10 orbs|
 |leaf|5 orbs|
 |white alien||
 |third birthday||
-|zodiac cancer||
 |zodiac sagittarius||
 |explosive||
 |magma|21 orbs|
@@ -23,7 +21,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |geist|6 orbs|
 |frozebeast| HH|
 |vanoss| HH| 
-|crazy|in storage |
 PRODIGY BELOW
 |krait||
 |bear|summon (hh)|
@@ -35,24 +32,19 @@ Phenomenon
 |cow||
 |fervor|10 orbs / breed pure + war (empower 2)|
 |berserk||
-**FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) |
-|Faust|64 orbs|
-|Sentence|26|
+**FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) 
 |Valiant||
-|Bushido||
 |Demigod|20 orbs|
 |Turkey|58|
 |Rocket|4 orbs|
 |Enigmatic|8 orbs|
 |Highborn||
-|Glitter||
-|Dark Sky|5|
+|Glitter|10|
 |Void||
 |Liquid|19 orbs|
-|Archaic||
+|Archaic|10|
 |**First Heroic**|Buy orbs in shop/trade|
 |High Tension|20 orbs|
-|High Tidal|45 orbs|
 |High Supremacy|40 orbs|
 |**Legends of Deus**||
 |Draek|15 orbs|
@@ -67,7 +59,6 @@ Phenomenon
 |Satanny|5 orbs|
 |childish|50 orbs|
 |**Second Heroic**||
-|High Star|can summon|
 |High Purity|20|
 |High Octane|20|
 |High Snow|20|
@@ -96,7 +87,6 @@ Phenomenon
 |Pyramid||
 |**Zombie**||
 |Zombie Terra||
-|Zombie Nature|storage|
 |**Fifth Heroic**||
 |High Ethereal|25|
 |High Virago|25|
@@ -104,4 +94,3 @@ Phenomenon
 |High Earthen|40|
 |High Devastation|15|
 |High Nebula|20|
-|High White Queen|30|
