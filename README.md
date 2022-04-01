@@ -72,8 +72,6 @@ Phenomenon
 |High Commander|40|
 |High Reverie|30|
 |High Winter|25|
-|**Alliance Chest**||
-|Vulcan|HH|
 |**Fourth Heroic**||
 |High Fallen|20|
 |High Positivity|15|
