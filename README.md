@@ -28,7 +28,6 @@ PRODIGY BELOW
 Phenomenon
 |cruel|HH|
 |cow||
-|fervor|10 orbs / breed pure + war (empower 2)|
 |berserk||
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) 
 |Valiant||
