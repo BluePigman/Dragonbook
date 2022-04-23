@@ -4,9 +4,8 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
-|Hell Twin|NOT RESCUABLE|
+|Hell Twin|55 orbs|
 |meditation|5 orbs|
-|la muerta||
 |motherly||
 |cyborg||
 |chocolate||
@@ -16,7 +15,7 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |third birthday||
 |zodiac sagittarius||
 |explosive||
-|magma|21 orbs|
+|magma|34 orbs|
 |royal phoenix|38 orbs|
 |geist|6 orbs|
 |frozebeast| HH|
@@ -27,7 +26,6 @@ PRODIGY BELOW
 |panther||
 |furious|HH|
 Phenomenon
-|zodiac aquarius |25 orbs / breed ice + wind (empower 1)|
 |cruel|HH|
 |cow||
 |fervor|10 orbs / breed pure + war (empower 2)|
@@ -35,7 +33,7 @@ Phenomenon
 **FIRST VIP** |(CANNOT RESCUE ANY OF THE BELOW &#8595;) 
 |Valiant||
 |Demigod|20 orbs|
-|Turkey|58|
+|Turkey|70|
 |Rocket|4 orbs|
 |Enigmatic|8 orbs|
 |Highborn||
@@ -45,7 +43,7 @@ Phenomenon
 |Archaic|10|
 |**First Heroic**|Buy orbs in shop/trade|
 |High Tension|20 orbs|
-|High Supremacy|40 orbs|
+|High Supremacy|can summon|
 |**Legends of Deus**||
 |Draek|15 orbs|
 |Drato|37 orbs|
@@ -57,7 +55,7 @@ Phenomenon
 |Machinery|summon (HH) 26 orbs|
 |Alien Lurker||
 |Satanny|5 orbs|
-|childish|50 orbs|
+|childish|54 orbs|
 |**Second Heroic**||
 |High Purity|20|
 |High Octane|20|
@@ -68,7 +66,6 @@ Phenomenon
 |High Superstition|55|
 |High Score|25|
 |High Feral|10|
-|Yggdrasil|40|
 |High Commander|40|
 |High Reverie|30|
 |High Winter|25|
@@ -78,15 +75,14 @@ Phenomenon
 |High Relentless|35|
 |High Marauder|37|
 |High Overlord|40|
-|High Diabolical|25|
+|High Diabolical|can summon|
 |High Cybernetic|27|
 |High Frozen|35|
 |**7 Wonders**||
-|Pyramid||
+|Pyramid|can summon|
 |**Zombie**||
 |Zombie Terra||
 |**Fifth Heroic**||
-|High Ethereal|25|
 |High Virago|25|
 |High Reborn|30|
 |High Earthen|40|
