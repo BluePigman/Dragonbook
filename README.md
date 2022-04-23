@@ -23,7 +23,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 PRODIGY BELOW
 |krait||
 |bear|summon (hh)|
-|panther||
 |furious|HH|
 Phenomenon
 |cruel|HH|
