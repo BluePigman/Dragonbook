@@ -5,8 +5,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 | Name| how to get (blank = rescuable) |
 | --- |  --- | 
 |Hell Twin|55 orbs|
-|meditation|5 orbs|
-|motherly||
 |cyborg||
 |chocolate||
 |demolition|10 orbs|
@@ -22,7 +20,6 @@ https://www.reddit.com/r/DragonCity/comments/ltm861/breeding_reborn_comprehensiv
 |vanoss| HH| 
 PRODIGY BELOW
 |krait||
-|bear|summon (hh)|
 |furious|HH|
 Phenomenon
 |cruel|HH|
